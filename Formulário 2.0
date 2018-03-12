@@ -1,0 +1,61 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Notas</title>
+
+    <body>
+        <center>
+            <h1>Formulário</h1>
+        </center>
+
+        <form name="formulario" action="https://mail.google.com/mail/u/0/#inbox" method="post"></form>
+        <input type=hidden name="destino" value="EmailQueVaiReceberAsMensagens">
+        <input type=hidden name="enviado" value="http://www.seudominio.xxx.yy/enviado.htm">
+        <p>
+
+            <center>
+                <b>Nome Completo:</b>
+                <br>
+                <input type=text name="nome" size="45" width="80" placeholder="Escreva seu nome" required="required" name="nome"/>
+        <br>
+        <p>
+            <b>Telefone:</b>
+            <br>
+        </p>
+            <input type="tel" name="telefone" size="45" width="80"placeholder="(xx)xx-xx-xx-xx" name="fone" />
+            
+        </p>
+        <br>
+        <p>
+            <b>E-mail:</b>
+            <br>
+            <input type=text name="email" size="45" width="80" placeholder="fulano@mail.com" name="email" />
+
+        </p>
+        <br>
+        <p>
+            <b>Assunto:</b>
+            <br>
+            <input type=text name="assunto" size="45" width="80">
+        </p>
+        <br>
+        <p>
+            <b>Mensagem:</b>
+            <br>
+            <textarea name="Mensagem" rows="10" cols="60" wrap="virtual" size="45" width="80"></textarea>
+
+        </p>
+        <br>
+        <p>
+            <input type="button" value="Enviar Email">
+
+        </p>
+        </center>
+        </form>
+</head>
+</body>
+
+</html>
