@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Formulário</title>
+</head>
+<body>
+    <!-- Criar um formulario de contato envolto por um fieldset -->
+	<h1><strong>Exercício 01 - Formulário</strong></h3>
+    <h3> Nome: Rafael Luiz dos Santos</h3>
+    <h3> Telefone: 041 99894-7664</h3>
+    <h3> Email: rafaelfeb@outlook.com</h3>
+    <h3> Mensagem: Favor não enviar spam!</h3>
+</body>
+</html>
