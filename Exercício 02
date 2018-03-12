@@ -9,6 +9,6 @@
 <body>
     <!-- Criar um formulário no google forms -->
     <!-- Criar um um iframe e incorporar o formulario do google forms -->
-    <iframe src="file:///C:/Users/opet/Documents/github/DesenvolvimentoResponsivoWeb/source/exerc%C3%ADcios/formulario.html" frameborder="0" width="100%" height="100%"></iframe>
+    <iframe src="file:///C:/Users/opet/Documents/github/DesenvolvimentoResponsivoWeb/source/exerc%C3%ADcios/formulario.html"> frameborder="0" width="100%" height="100%"></iframe>
 </body>
 </html>
